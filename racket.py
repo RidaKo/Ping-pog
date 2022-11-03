@@ -15,7 +15,7 @@ class Racket(Turtle):
     def move_up(self) -> None:
         self.forward(20)
     def move_down(self) -> None:
-        self.backward(s)
+        self.backward(20)
 
 
     # def make_racket(self) -> list:
